@@ -1,0 +1,21 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "X:/My Documents/EC311/Project/Project_validMoveModule/valid_move_check_tb_isim_beh.exe" -prj "X:/My Documents/EC311/Project/Project_validMoveModule/valid_move_check_tb_beh.prj" "work.valid_move_check_tb" "work.glbl" 
+ISim P.49d (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "X:/My Documents/EC311/Project/Project_validMoveModule/valid_move_check.v" into library work
+Analyzing Verilog file "X:/My Documents/EC311/Project/Project_validMoveModule/valid_move_check_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.4/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 180776 KB
+Fuse CPU Usage: 296 ms
+Compiling module valid_move_check
+Compiling module valid_move_check_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 Verilog Units
+Built simulation executable X:/My Documents/EC311/Project/Project_validMoveModule/valid_move_check_tb_isim_beh.exe
+Fuse Memory Usage: 185064 KB
+Fuse CPU Usage: 311 ms

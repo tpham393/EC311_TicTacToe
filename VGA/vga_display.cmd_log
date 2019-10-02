@@ -1,0 +1,18 @@
+xst -intstyle ise -ifn "X:/My Documents/EC311/Project/VGA/vga_display.xst" -ofn "X:/My Documents/EC311/Project/VGA/vga_display.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/My Documents/EC311/Project/vga.ucf" -p xc7a100t-csg324-3 "vga_display.ngc" vga_display.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o vga_display_map.ncd vga_display.ngd vga_display.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/My Documents/EC311/Project/vga.ucf" -p xc7a100t-csg324-3 "vga_display.ngc" vga_display.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o vga_display_map.ncd vga_display.ngd vga_display.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/My Documents/EC311/Project/vga.ucf" -p xc7a100t-csg324-3 "vga_display.ngc" vga_display.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o vga_display_map.ncd vga_display.ngd vga_display.pcf 
+xst -intstyle ise -ifn "X:/My Documents/EC311/Project/VGA/vga_display.xst" -ofn "X:/My Documents/EC311/Project/VGA/vga_display.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/My Documents/EC311/Project/vga.ucf" -p xc7a100t-csg324-3 "vga_display.ngc" vga_display.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/My Documents/EC311/Project/vga.ucf" -p xc7a100t-csg324-3 "vga_display.ngc" vga_display.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o vga_display_map.ncd vga_display.ngd vga_display.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/My Documents/EC311/Project/vga.ucf" -p xc7a100t-csg324-3 "vga_display.ngc" vga_display.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o vga_display_map.ncd vga_display.ngd vga_display.pcf 
+xst -intstyle ise -ifn "X:/My Documents/EC311/Project/VGA/vga_display.xst" -ofn "X:/My Documents/EC311/Project/VGA/vga_display.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/My Documents/EC311/Project/vga.ucf" -p xc7a100t-csg324-3 "vga_display.ngc" vga_display.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o vga_display_map.ncd vga_display.ngd vga_display.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc "X:/My Documents/EC311/Project/vga.ucf" -p xc7a100t-csg324-3 "vga_display.ngc" vga_display.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o vga_display_map.ncd vga_display.ngd vga_display.pcf 

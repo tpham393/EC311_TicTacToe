@@ -1,0 +1,28 @@
+Command line:
+   valid_move_check_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59611
+
+Fri Dec 07 12:19:26 2018
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 1472.25 Meg
+
+ Total Signals          : 22
+ Total Nets             : 46
+ Total Signal Drivers   : 14
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 20
+ Total Traceable Variables  : 37
+ Total Scalar Nets and Variables : 199
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 999.608 Meg
+
+Fri Dec 07 12:23:01 2018
+

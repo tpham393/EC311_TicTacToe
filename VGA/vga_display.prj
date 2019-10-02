@@ -1,0 +1,3 @@
+verilog work "../VGAController.v"
+verilog work "../clock_divider.v"
+verilog work "../VGADispaly.v"

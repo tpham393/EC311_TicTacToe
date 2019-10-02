@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "X:/My Documents/EC311/Project/Project_validMoveModule/valid_move_check_tb_isim_beh.exe" -prj "X:/My Documents/EC311/Project/Project_validMoveModule/valid_move_check_tb_beh.prj" "work.valid_move_check_tb" "work.glbl" 
